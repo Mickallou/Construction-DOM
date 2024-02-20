@@ -17,7 +17,7 @@ body {
 }
 
 .domZone {
-    width: 80%;
+    width: 70%;
     padding-top: 30px;
     display: flex;
     justify-content: center;
@@ -38,6 +38,7 @@ body {
 
 .constZone {
     padding: 15px;
+    width: 30%;
 }
 
 .constZone h1 {
